@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/entryword/Develop/Application/eclipse-4.4.2-20150525/eclipse/readme'
+let g:netrw_dirhist_2='/home/entryword/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-sdk/edp2-api-client/target/surefire-reports'
+let g:netrw_dirhist_3='/home/entryword/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-sdk/edp2-client/target/surefire-reports'
+let g:netrw_dirhist_4='/home/entryword/.ssh'
+let g:netrw_dirhist_5='/home/entryword/Develop/WorkSpace/HUE100/company-framework/bt-eva-setting-version-up'
+let g:netrw_dirhist_6='/home/entryword/.vim'
